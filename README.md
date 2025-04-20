@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I'm a Software QA Engineer.<br> 🌱 I'm currently learning Playwright, Cypress, and Docker<br>⚡ Know about my experiences  https://www.linkedin.com/in/john-thapa-6abb591a3/<br>📫 How to reach me: Email- thapajohn2057@gmail.com<br>
+I'm a Software QA Engineer.<br>I'm currently learning Playwright, Cypress, and Docker<br>Know about my experiences  https://www.linkedin.com/in/john-thapa-6abb591a3/<br>How to reach me: Email- thapajohn2057@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -14,7 +14,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Johnthapa1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnthapa1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Johnthapa1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Johnthapa1&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
